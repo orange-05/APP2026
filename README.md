@@ -5,17 +5,17 @@
 ![Last Commit](https://img.shields.io/github/last-commit/orange-05/APP2026?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/orange-05/APP2026?style=for-the-badge)
 
-> **Data Analysis Project** — Missing value identification, handling, and exploratory analysis on sales datasets.
+> **Data Analysis Project** -- Missing value identification, handling, and exploratory analysis on sales datasets.
 
 ---
 
-## 🌟 Overview
+## Overview
 
 **APP2026** is a data science project focused on data cleaning and preprocessing techniques. The centerpiece is a Jupyter Notebook demonstrating how to identify, analyze, and handle missing values in real-world datasets, using a sales dataset (`selling.csv`) as the primary example.
 
 ---
 
-## ✨ Key Analyses
+## Key Analyses
 
 | Notebook | Focus |
 |----------|-------|
@@ -23,20 +23,20 @@
 
 ---
 
-## 📊 Dataset
+## Dataset
 
-**`selling.csv`** — Sales transaction data with columns likely including:
+**`selling.csv`** -- Sales transaction data with columns likely including:
 - Product information
 - Sales figures
 - Date/time stamps
 - Categorical attributes (region, category, etc.)
 - *Missing values intentionally present for demonstration*
 
-**`choose.txt`** — Configuration or feature selection notes (inspect for details)
+**`choose.txt`** -- Configuration or feature selection notes (inspect for details)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -47,19 +47,19 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 APP2026/
-├── Identify and Dropping Missing Values.ipynb   # Main analysis notebook
-├── selling.csv                                   # Primary dataset
-├── choose.txt                                    # Feature selection / config notes
-└── README.md                                     # This file
++-- Identify and Dropping Missing Values.ipynb   # Main analysis notebook
++-- selling.csv                                   # Primary dataset
++-- choose.txt                                    # Feature selection / config notes
++-- README.md                                     # This file
 ```
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -85,7 +85,7 @@ jupyter notebook "Identify and Dropping Missing Values.ipynb"
 
 ---
 
-## 📈 Notebook Highlights
+## Notebook Highlights
 
 ### 1. Missing Value Detection
 ```python
@@ -113,7 +113,7 @@ df.isnull().sum()        # Count per column
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 After working through this notebook, you will:
 - Identify missing data patterns visually and programmatically
@@ -123,7 +123,7 @@ After working through this notebook, you will:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is a learning project, but improvements welcome:
 1. Add new imputation techniques (e.g., deep learning based)
@@ -133,7 +133,7 @@ This is a learning project, but improvements welcome:
 
 ---
 
-## 👤 Author
+## Author
 
 **Karthikeyan K** (BCA Analytics)
 - GitHub: [@orange-05](https://github.com/orange-05)
@@ -141,4 +141,4 @@ This is a learning project, but improvements welcome:
 
 ---
 
-*Data cleaning is 80% of data science — master it early.* — Last updated July 2026
+*Data cleaning is 80% of data science -- master it early.* -- Last updated July 2026

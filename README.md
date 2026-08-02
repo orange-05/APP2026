@@ -2,8 +2,6 @@
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/orange-05/APP2026?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/orange-05/APP2026?style=for-the-badge)
 
 > **Data Analysis Project** -- Missing value identification, handling, and exploratory analysis on sales datasets.
 
